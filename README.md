@@ -163,8 +163,4 @@ When you specify a target framework, the tool uses this matching strategy:
 
 ## License
 
-This tool is provided as-is for educational and development purposes.
-
-## Contributing
-
-Feel free to open issues or submit pull requests for improvements.
+MIT
